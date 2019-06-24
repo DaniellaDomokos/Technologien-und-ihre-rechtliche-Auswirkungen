@@ -1,4 +1,4 @@
-# Technologien-und-ihre-rechtliche-Auswirkungen
+# Technologische Entwicklungen und ihre rechtliche Bewertung
 In diesem Kapitel wird näher auf die einzelnen technologischen Entwicklungen und die rechtliche Fragestellungen um diese eingegangen. 
 
 
